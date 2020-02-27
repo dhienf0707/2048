@@ -1,0 +1,30 @@
+C:\Users\n10327622\Downloads\PST2-n10327622\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\n10327622\Downloads\PST2-n10327622\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\n10327622\Downloads\PST2-n10327622\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\n10327622\Downloads\PST2-n10327622\UnitTests\bin\Debug\TwentyFortyEight.exe
+C:\Users\n10327622\Downloads\PST2-n10327622\UnitTests\bin\Debug\TwentyFortyEight.pdb
+C:\Users\n10327622\Downloads\PST2-n10327622\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\n10327622\Downloads\PST2-n10327622\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\n10327622\Downloads\PST2-n10327622\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\bin\Debug\TwentyFortyEight.exe
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\bin\Debug\TwentyFortyEight.pdb
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\bin\Debug\TwentyFortyEight.exe.config
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\duchi\Desktop\PST2-n10327622\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\bin\Debug\TwentyFortyEight.exe
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\bin\Debug\TwentyFortyEight.pdb
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\bin\Debug\TwentyFortyEight.exe.config
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\duchi\OneDrive - Queensland University of Technology\Study\sem2_year1\ITD121\assignment 2\PST2-n10327622\UnitTests\obj\Debug\UnitTests.pdb
